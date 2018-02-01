@@ -46,6 +46,8 @@ Após verificar a saúde do servidor conforme imagem acima, acesse o seguinte li
 
 Verifique que você está na página inicial do SonarQube autenticado, e que para o seu primeiro acesso, a ferramenta disponibiliza um recurso de configurar seu primeiro projeto. Será necessário associar seu projeto local através de uma chave e um token que serão gerados na ferramenta.
 
+ANOTE SEU TOKEN E CHAVE(KEY) PARA SEREM UTILIZADOS!
+
 Inicialmente você configura seu nome do token e após, o mesmo é gerado:
 .
 
@@ -109,7 +111,6 @@ Algo semelhante será apresentado ao iniciar:
 ![](https://i.imgur.com/rlDbnKS.png)
 
 E ao final, será apresentado o seguinte trecho, assim representado que foi finalizado o processo de verificação do código do projeto:
-.
 ![](https://i.imgur.com/31SxRQc.png)
 
 Pronto! Seu código já foi analisado e você tem os resultados pronto para analise.
