@@ -108,9 +108,11 @@ Agora o passo final será executar a varredura do código e analisar os resultad
 ```
 
 Algo semelhante será apresentado ao iniciar:
+
 ![](https://i.imgur.com/rlDbnKS.png)
 
-E ao final, será apresentado o seguinte trecho, assim representado que foi finalizado o processo de verificação do código do projeto:
+E ao final, será exibido o trecho abaixo representado a finalização da varredura do projeto:
+
 ![](https://i.imgur.com/31SxRQc.png)
 
 Pronto! Seu código já foi analisado e você tem os resultados pronto para analise.
